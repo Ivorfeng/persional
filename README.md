@@ -1,13 +1,13 @@
 # personal
 
 home
-192.168.1.250  3floor
 
-192.168.1.251  2floor
 
-192.168.1.252  1floor
+192.168.1.20 2floor Remi
 
-feng@123
+192.168.1.150  1floor Remi
+
+86913709
 
 192.168.1.1
 root/admin
